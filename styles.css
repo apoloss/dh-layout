@@ -7,12 +7,19 @@ main{
 }
 
 .btn{
-
+    position: relative;
+    top: 12px;
 	background-color: #3872d1;
 	color: white;
 }
 
 .img-responsive{
 
-	margin:14px 0px 10px 0px ;
+	margin:12px 0px 0px 0px ;
+}
+
+.letra{
+   
+    font-weight: bold;
+   
 }
