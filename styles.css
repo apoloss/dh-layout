@@ -5,3 +5,14 @@ main{
 .jumbotron{
 	background-color: lightgrey;
 }
+
+.btn{
+
+	background-color: #3872d1;
+	color: white;
+}
+
+.img-responsive{
+
+	margin:14px 0px 10px 0px ;
+}
