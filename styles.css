@@ -3,6 +3,9 @@ main{
 }
 
 .jumbotron{
+
+	position: relative;
+	right: 59px;
 	background-color: lightgrey;
 }
 
